@@ -1,0 +1,96 @@
+{
+  "configVersion": 1,
+  "timestamp": 1571769302499,
+  "index": "https://nvuillam.github.io/zaf-fsgt/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://nvuillam.github.io/zaf-fsgt/3-es5.c2ecbddd9cd392c12ae7.js",
+        "https://nvuillam.github.io/zaf-fsgt/4-es2015.12ac9a635ff140b7390c.js",
+        "https://nvuillam.github.io/zaf-fsgt/favicon.ico",
+        "https://nvuillam.github.io/zaf-fsgt/index.html",
+        "https://nvuillam.github.io/zaf-fsgt/main-es2015.67aeb77356dd086d4d68.js",
+        "https://nvuillam.github.io/zaf-fsgt/main-es5.a8c69001f5a92b13cf0b.js",
+        "https://nvuillam.github.io/zaf-fsgt/manifest.json",
+        "https://nvuillam.github.io/zaf-fsgt/polyfills-es2015.6f582e2dd084a9eb31fe.js",
+        "https://nvuillam.github.io/zaf-fsgt/polyfills-es5.7664869bb0b07fac599e.js",
+        "https://nvuillam.github.io/zaf-fsgt/runtime-es2015.58c1991e0be9ec136e29.js",
+        "https://nvuillam.github.io/zaf-fsgt/runtime-es5.9ae1b98f0eec74a1afa2.js",
+        "https://nvuillam.github.io/zaf-fsgt/styles.aa470929d8d2a97e71fa.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo.png",
+        "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo@192.png",
+        "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.06147b6cd88c7346cecd.ttf",
+        "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.5063b105c7646c8043d5.eot",
+        "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.c5e0f14f88a828261ba0.woff",
+        "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.cccc9d29470e879e40eb.woff2",
+        "https://nvuillam.github.io/zaf-fsgt/fa-regular-400.65b286af947c0d982ca0.ttf",
+        "https://nvuillam.github.io/zaf-fsgt/fa-regular-400.c1a866ec0e04a5e1915b.eot",
+        "https://nvuillam.github.io/zaf-fsgt/fa-regular-400.c4f508e7c4f01a9eeba7.woff",
+        "https://nvuillam.github.io/zaf-fsgt/fa-regular-400.f5f2566b93e89391da4d.woff2",
+        "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.0bff33a5fd7ec3902354.ttf",
+        "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.333bae208dc363746961.woff",
+        "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.44d537ab79f921fde5a2.woff2",
+        "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.8e4a6dcc692b3887f9f5.eot"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://nvuillam.github.io/zaf-fsgt/3-es5.c2ecbddd9cd392c12ae7.js": "8375c55fa9a9f0c76dfe4a16bbd5783edec2b7a7",
+    "https://nvuillam.github.io/zaf-fsgt/4-es2015.12ac9a635ff140b7390c.js": "2d55303fd4990ff728672e7497297b42ad408c43",
+    "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.06147b6cd88c7346cecd.ttf": "c5a1a93f668d15f55deac38b4728f8d901bd4748",
+    "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.5063b105c7646c8043d5.eot": "7ed86fe71d4dc31d5edf492f7472d6fb88c3c3c9",
+    "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.c5e0f14f88a828261ba0.woff": "6900998c1d878e73b2f9ac3a9a9746365d49a54f",
+    "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.cccc9d29470e879e40eb.woff2": "5fe986cda635681b4b6bbd6111df2f26d7fca286",
+    "https://nvuillam.github.io/zaf-fsgt/fa-regular-400.65b286af947c0d982ca0.ttf": "5d5375ce3ae5b500df039da009ccdaca29d52fc0",
+    "https://nvuillam.github.io/zaf-fsgt/fa-regular-400.c1a866ec0e04a5e1915b.eot": "1115185386ada5846eecc4e2e1f076ca7617e0cd",
+    "https://nvuillam.github.io/zaf-fsgt/fa-regular-400.c4f508e7c4f01a9eeba7.woff": "7626840dab0e2ae37b2d16572a6f183a71a0dd73",
+    "https://nvuillam.github.io/zaf-fsgt/fa-regular-400.f5f2566b93e89391da4d.woff2": "be142af0f56062f6e864de121b98054c7b5954fd",
+    "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.0bff33a5fd7ec3902354.ttf": "40d9789010f6137e543e4d97025b867707d2f425",
+    "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.333bae208dc363746961.woff": "43dae5c2482bfb5d04d896529600eb621181103a",
+    "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.44d537ab79f921fde5a2.woff2": "b2879f9e1d0985a96842bf7f55a2b2cc4c636d04",
+    "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.8e4a6dcc692b3887f9f5.eot": "340ee70e87850176047733192ea8109dd6380082",
+    "https://nvuillam.github.io/zaf-fsgt/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "https://nvuillam.github.io/zaf-fsgt/index.html": "1e748d133ba3580a2926ff98f73fa57a2d7121f1",
+    "https://nvuillam.github.io/zaf-fsgt/main-es2015.67aeb77356dd086d4d68.js": "8687bdaaa1689b270abfda505fb483a04d4a04de",
+    "https://nvuillam.github.io/zaf-fsgt/main-es5.a8c69001f5a92b13cf0b.js": "f098554ec8a28a5c4c9234c1cb76aa78c3056b0a",
+    "https://nvuillam.github.io/zaf-fsgt/manifest.json": "2da77638fec32bad3a57827f66357ca29c4dc74c",
+    "https://nvuillam.github.io/zaf-fsgt/polyfills-es2015.6f582e2dd084a9eb31fe.js": "ffe5f8cfa6eae51a7a95e8363b303b0c44ade852",
+    "https://nvuillam.github.io/zaf-fsgt/polyfills-es5.7664869bb0b07fac599e.js": "3ea1e29746459f5b3ea1cf720189326d06127910",
+    "https://nvuillam.github.io/zaf-fsgt/runtime-es2015.58c1991e0be9ec136e29.js": "3020091b5b183209823ae82b4e116218fcc86b07",
+    "https://nvuillam.github.io/zaf-fsgt/runtime-es5.9ae1b98f0eec74a1afa2.js": "3cef76ce2ff9f19f306a0870eb105d3c389c9087",
+    "https://nvuillam.github.io/zaf-fsgt/styles.aa470929d8d2a97e71fa.css": "64c9e7b4563dddce4183f0753a02c51503773d30"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
