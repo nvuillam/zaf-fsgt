@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1571769302499,
+  "timestamp": 1571787846081,
   "index": "https://nvuillam.github.io/zaf-fsgt/index.html",
   "assetGroups": [
     {
@@ -9,17 +9,17 @@
       "updateMode": "prefetch",
       "urls": [
         "https://nvuillam.github.io/zaf-fsgt/3-es5.c2ecbddd9cd392c12ae7.js",
-        "https://nvuillam.github.io/zaf-fsgt/4-es2015.12ac9a635ff140b7390c.js",
+        "https://nvuillam.github.io/zaf-fsgt/4-es2015.0b15ce248eab95001d56.js",
         "https://nvuillam.github.io/zaf-fsgt/favicon.ico",
         "https://nvuillam.github.io/zaf-fsgt/index.html",
-        "https://nvuillam.github.io/zaf-fsgt/main-es2015.67aeb77356dd086d4d68.js",
-        "https://nvuillam.github.io/zaf-fsgt/main-es5.a8c69001f5a92b13cf0b.js",
+        "https://nvuillam.github.io/zaf-fsgt/main-es2015.26f220d295224062e247.js",
+        "https://nvuillam.github.io/zaf-fsgt/main-es5.c6e46b4f306a8e12ad2a.js",
         "https://nvuillam.github.io/zaf-fsgt/manifest.json",
         "https://nvuillam.github.io/zaf-fsgt/polyfills-es2015.6f582e2dd084a9eb31fe.js",
         "https://nvuillam.github.io/zaf-fsgt/polyfills-es5.7664869bb0b07fac599e.js",
-        "https://nvuillam.github.io/zaf-fsgt/runtime-es2015.58c1991e0be9ec136e29.js",
+        "https://nvuillam.github.io/zaf-fsgt/runtime-es2015.105d6f66393e13a6cf1c.js",
         "https://nvuillam.github.io/zaf-fsgt/runtime-es5.9ae1b98f0eec74a1afa2.js",
-        "https://nvuillam.github.io/zaf-fsgt/styles.aa470929d8d2a97e71fa.css"
+        "https://nvuillam.github.io/zaf-fsgt/styles.8ae391d5d7c4bb42d479.css"
       ],
       "patterns": []
     },
@@ -30,6 +30,9 @@
       "urls": [
         "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo.png",
         "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo@192.png",
+        "https://nvuillam.github.io/zaf-fsgt/data-table.246ea8fa6c452b0f3c4f.woff",
+        "https://nvuillam.github.io/zaf-fsgt/data-table.bce071e976865da51100.eot",
+        "https://nvuillam.github.io/zaf-fsgt/data-table.c8c6d300cb7abb9f36e8.ttf",
         "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.06147b6cd88c7346cecd.ttf",
         "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.5063b105c7646c8043d5.eot",
         "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.c5e0f14f88a828261ba0.woff",
@@ -49,9 +52,12 @@
   "dataGroups": [],
   "hashTable": {
     "https://nvuillam.github.io/zaf-fsgt/3-es5.c2ecbddd9cd392c12ae7.js": "8375c55fa9a9f0c76dfe4a16bbd5783edec2b7a7",
-    "https://nvuillam.github.io/zaf-fsgt/4-es2015.12ac9a635ff140b7390c.js": "2d55303fd4990ff728672e7497297b42ad408c43",
+    "https://nvuillam.github.io/zaf-fsgt/4-es2015.0b15ce248eab95001d56.js": "d55ed0bbb690c2dd2e809493f1f138f80f3db5f3",
     "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
     "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "https://nvuillam.github.io/zaf-fsgt/data-table.246ea8fa6c452b0f3c4f.woff": "d4582b40484b4ee1fd334a5577fd945e804484f9",
+    "https://nvuillam.github.io/zaf-fsgt/data-table.bce071e976865da51100.eot": "99e68eaef544d4a4eaa307996db55b76ccc349d7",
+    "https://nvuillam.github.io/zaf-fsgt/data-table.c8c6d300cb7abb9f36e8.ttf": "5c23a1ceb1b1d37844a864c02cd97b145e6243dd",
     "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.06147b6cd88c7346cecd.ttf": "c5a1a93f668d15f55deac38b4728f8d901bd4748",
     "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.5063b105c7646c8043d5.eot": "7ed86fe71d4dc31d5edf492f7472d6fb88c3c3c9",
     "https://nvuillam.github.io/zaf-fsgt/fa-brands-400.c5e0f14f88a828261ba0.woff": "6900998c1d878e73b2f9ac3a9a9746365d49a54f",
@@ -65,15 +71,15 @@
     "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.44d537ab79f921fde5a2.woff2": "b2879f9e1d0985a96842bf7f55a2b2cc4c636d04",
     "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.8e4a6dcc692b3887f9f5.eot": "340ee70e87850176047733192ea8109dd6380082",
     "https://nvuillam.github.io/zaf-fsgt/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
-    "https://nvuillam.github.io/zaf-fsgt/index.html": "1e748d133ba3580a2926ff98f73fa57a2d7121f1",
-    "https://nvuillam.github.io/zaf-fsgt/main-es2015.67aeb77356dd086d4d68.js": "8687bdaaa1689b270abfda505fb483a04d4a04de",
-    "https://nvuillam.github.io/zaf-fsgt/main-es5.a8c69001f5a92b13cf0b.js": "f098554ec8a28a5c4c9234c1cb76aa78c3056b0a",
+    "https://nvuillam.github.io/zaf-fsgt/index.html": "01573019bf3b3d3e26c97a58c068e13cdb41623a",
+    "https://nvuillam.github.io/zaf-fsgt/main-es2015.26f220d295224062e247.js": "2a1507858da1e6286e0cd1b881c1ef553489ca3a",
+    "https://nvuillam.github.io/zaf-fsgt/main-es5.c6e46b4f306a8e12ad2a.js": "8d6c0eb24933c8d11dcc6eaf719d360d4b12d063",
     "https://nvuillam.github.io/zaf-fsgt/manifest.json": "2da77638fec32bad3a57827f66357ca29c4dc74c",
     "https://nvuillam.github.io/zaf-fsgt/polyfills-es2015.6f582e2dd084a9eb31fe.js": "ffe5f8cfa6eae51a7a95e8363b303b0c44ade852",
     "https://nvuillam.github.io/zaf-fsgt/polyfills-es5.7664869bb0b07fac599e.js": "3ea1e29746459f5b3ea1cf720189326d06127910",
-    "https://nvuillam.github.io/zaf-fsgt/runtime-es2015.58c1991e0be9ec136e29.js": "3020091b5b183209823ae82b4e116218fcc86b07",
+    "https://nvuillam.github.io/zaf-fsgt/runtime-es2015.105d6f66393e13a6cf1c.js": "64c154f630ef015038141198d9f359fe3f23ff0a",
     "https://nvuillam.github.io/zaf-fsgt/runtime-es5.9ae1b98f0eec74a1afa2.js": "3cef76ce2ff9f19f306a0870eb105d3c389c9087",
-    "https://nvuillam.github.io/zaf-fsgt/styles.aa470929d8d2a97e71fa.css": "64c9e7b4563dddce4183f0753a02c51503773d30"
+    "https://nvuillam.github.io/zaf-fsgt/styles.8ae391d5d7c4bb42d479.css": "15fc79bdff78642c9e713491ea1858846a168f41"
   },
   "navigationUrls": [
     {
