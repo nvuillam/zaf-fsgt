@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572091689297,
+  "timestamp": 1572093279264,
   "index": "https://nvuillam.github.io/zaf-fsgt/404.html",
   "assetGroups": [
     {
@@ -56,7 +56,8 @@
     {
       "name": "almost-static-api-cache",
       "patterns": [
-        "https:\\/\\/(?:.+\\/)?api\\/v1\\/leagues"
+        "https:\\/\\/(?:.+\\/)?api\\/v1\\/leagues",
+        "!https:\\/\\/(?:.+\\/)?api\\/v1\\/leagues\\/.*"
       ],
       "strategy": "performance",
       "maxSize": 5,
@@ -66,7 +67,6 @@
     {
       "name": "dynamic-api-cache",
       "patterns": [
-        "!https:\\/\\/(?:.+\\/)?api\\/v1\\/leagues",
         "https:\\/\\/(?:.+\\/)?api\\/v1\\/.*"
       ],
       "strategy": "freshness",
@@ -100,7 +100,7 @@
     "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.44d537ab79f921fde5a2.woff2": "b2879f9e1d0985a96842bf7f55a2b2cc4c636d04",
     "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.8e4a6dcc692b3887f9f5.eot": "340ee70e87850176047733192ea8109dd6380082",
     "https://nvuillam.github.io/zaf-fsgt/favicon.ico": "7288263ddd6bb0c5da421d78580c279122c4c522",
-    "https://nvuillam.github.io/zaf-fsgt/index.html": "a41764257dfb55983b269a82b502afdd2a33e8ed",
+    "https://nvuillam.github.io/zaf-fsgt/index.html": "9972c5b4f1a27131e94f1ae9610cc5f13bfc61df",
     "https://nvuillam.github.io/zaf-fsgt/main-es2015.f0e2a2f08bf9e27799bc.js": "bea3f05feba7465a100877c3d03fce20623df584",
     "https://nvuillam.github.io/zaf-fsgt/main-es5.c9ff8f302e67f470d465.js": "27b4b7f1782410aaf2b0695da7a1ba78423b473d",
     "https://nvuillam.github.io/zaf-fsgt/manifest.json": "422a1ddbf3243f4de1f66c969e8dde50797687ca",
