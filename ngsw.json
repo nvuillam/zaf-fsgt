@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572093279264,
+  "timestamp": 1572134738879,
   "index": "https://nvuillam.github.io/zaf-fsgt/404.html",
   "assetGroups": [
     {
@@ -12,8 +12,8 @@
         "https://nvuillam.github.io/zaf-fsgt/4-es2015.764528b373b4ca7103e5.js",
         "https://nvuillam.github.io/zaf-fsgt/favicon.ico",
         "https://nvuillam.github.io/zaf-fsgt/index.html",
-        "https://nvuillam.github.io/zaf-fsgt/main-es2015.f0e2a2f08bf9e27799bc.js",
-        "https://nvuillam.github.io/zaf-fsgt/main-es5.c9ff8f302e67f470d465.js",
+        "https://nvuillam.github.io/zaf-fsgt/main-es2015.9c9a6aa86ceb97f3e83f.js",
+        "https://nvuillam.github.io/zaf-fsgt/main-es5.ff99c7488355d81e1524.js",
         "https://nvuillam.github.io/zaf-fsgt/manifest.json",
         "https://nvuillam.github.io/zaf-fsgt/polyfills-es2015.6f582e2dd084a9eb31fe.js",
         "https://nvuillam.github.io/zaf-fsgt/polyfills-es5.7664869bb0b07fac599e.js",
@@ -28,8 +28,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo.png",
-        "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo@192.png",
+        "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img.png",
         "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo-big.png",
         "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo.png",
         "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo@192.png",
@@ -79,8 +78,7 @@
   "hashTable": {
     "https://nvuillam.github.io/zaf-fsgt/3-es5.c2ecbddd9cd392c12ae7.js": "8375c55fa9a9f0c76dfe4a16bbd5783edec2b7a7",
     "https://nvuillam.github.io/zaf-fsgt/4-es2015.764528b373b4ca7103e5.js": "2d736d4763ad274d5fa93f34cebb58efc94dc273",
-    "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
-    "https://nvuillam.github.io/zaf-fsgt/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img.png": "d727b7e95e51e8dc33e80ca1e836de92f50c2b1e",
     "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo-big.png": "a63fb22fa9d1c00343ab2732396d99adcb9afaf5",
     "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo.png": "5e8dd63899c9d4494714c24401984e40f4b85cb1",
     "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo@192.png": "1a786f689cf619935b63a7d159d625af4b089b6e",
@@ -100,9 +98,9 @@
     "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.44d537ab79f921fde5a2.woff2": "b2879f9e1d0985a96842bf7f55a2b2cc4c636d04",
     "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.8e4a6dcc692b3887f9f5.eot": "340ee70e87850176047733192ea8109dd6380082",
     "https://nvuillam.github.io/zaf-fsgt/favicon.ico": "7288263ddd6bb0c5da421d78580c279122c4c522",
-    "https://nvuillam.github.io/zaf-fsgt/index.html": "9972c5b4f1a27131e94f1ae9610cc5f13bfc61df",
-    "https://nvuillam.github.io/zaf-fsgt/main-es2015.f0e2a2f08bf9e27799bc.js": "bea3f05feba7465a100877c3d03fce20623df584",
-    "https://nvuillam.github.io/zaf-fsgt/main-es5.c9ff8f302e67f470d465.js": "27b4b7f1782410aaf2b0695da7a1ba78423b473d",
+    "https://nvuillam.github.io/zaf-fsgt/index.html": "d8f0d9ec4bf8b3dd760389d83befcc11443b1ad6",
+    "https://nvuillam.github.io/zaf-fsgt/main-es2015.9c9a6aa86ceb97f3e83f.js": "c308702599fff6e8027aa567b70ed2d85ef6c16a",
+    "https://nvuillam.github.io/zaf-fsgt/main-es5.ff99c7488355d81e1524.js": "ec757ebaf71e46cf4c4491b368660d6dc59d44f1",
     "https://nvuillam.github.io/zaf-fsgt/manifest.json": "422a1ddbf3243f4de1f66c969e8dde50797687ca",
     "https://nvuillam.github.io/zaf-fsgt/polyfills-es2015.6f582e2dd084a9eb31fe.js": "ffe5f8cfa6eae51a7a95e8363b303b0c44ade852",
     "https://nvuillam.github.io/zaf-fsgt/polyfills-es5.7664869bb0b07fac599e.js": "3ea1e29746459f5b3ea1cf720189326d06127910",
