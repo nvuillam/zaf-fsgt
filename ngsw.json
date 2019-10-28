@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572263135164,
+  "timestamp": 1572302484349,
   "index": "https://nvuillam.github.io/zaf-fsgt/404.html",
   "assetGroups": [
     {
@@ -14,14 +14,14 @@
         "https://nvuillam.github.io/zaf-fsgt/5-es2015.13f00347abe21718d516.js",
         "https://nvuillam.github.io/zaf-fsgt/favicon.ico",
         "https://nvuillam.github.io/zaf-fsgt/index.html",
-        "https://nvuillam.github.io/zaf-fsgt/main-es2015.e9dec10aea282f0afa9c.js",
-        "https://nvuillam.github.io/zaf-fsgt/main-es5.342c635604a96594b252.js",
+        "https://nvuillam.github.io/zaf-fsgt/main-es2015.bf9776175563db2a5b5b.js",
+        "https://nvuillam.github.io/zaf-fsgt/main-es5.31da56978065a427575a.js",
         "https://nvuillam.github.io/zaf-fsgt/manifest.json",
         "https://nvuillam.github.io/zaf-fsgt/polyfills-es2015.6f582e2dd084a9eb31fe.js",
         "https://nvuillam.github.io/zaf-fsgt/polyfills-es5.7664869bb0b07fac599e.js",
         "https://nvuillam.github.io/zaf-fsgt/runtime-es2015.66c50dffbde7e36d296b.js",
         "https://nvuillam.github.io/zaf-fsgt/runtime-es5.c4dd5b6ad5686397be8f.js",
-        "https://nvuillam.github.io/zaf-fsgt/styles.22d8767be20edb0ad778.css"
+        "https://nvuillam.github.io/zaf-fsgt/styles.6f95bd4aa961957aff89.css"
       ],
       "patterns": []
     },
@@ -31,6 +31,10 @@
       "updateMode": "prefetch",
       "urls": [
         "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img.png",
+        "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img_defender.png",
+        "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img_forward.png",
+        "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img_goalkeeper.png",
+        "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img_midfielder.png",
         "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo-big.png",
         "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo.png",
         "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo@192.png",
@@ -91,7 +95,11 @@
     "https://nvuillam.github.io/zaf-fsgt/4-es2015.326683eb65e5a73f62ce.js": "2c1cef9e1a708c2906475990195a3736460e5a38",
     "https://nvuillam.github.io/zaf-fsgt/4-es5.45b39b10713dd472faaa.js": "7415d989612b0dece7aaaadbeb1ec9422796cff2",
     "https://nvuillam.github.io/zaf-fsgt/5-es2015.13f00347abe21718d516.js": "5979bb374109391b4ef31b59b1e0f4255c2df445",
-    "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img.png": "d727b7e95e51e8dc33e80ca1e836de92f50c2b1e",
+    "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img.png": "a02d9f870d997b59068641e69156cedc5f598a26",
+    "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img_defender.png": "babe6557e0051f6f5a2efc151109001288f8795f",
+    "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img_forward.png": "f204f601eb9a0857736a2acd4aec87af9df43976",
+    "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img_goalkeeper.png": "94884767325e2e73746cfc0c0a6fe55b8033d1a4",
+    "https://nvuillam.github.io/zaf-fsgt/assets/default_player_img_midfielder.png": "f2c29de82b49bc8cec263fde3c62d945e7f2e12d",
     "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo-big.png": "a63fb22fa9d1c00343ab2732396d99adcb9afaf5",
     "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo.png": "5e8dd63899c9d4494714c24401984e40f4b85cb1",
     "https://nvuillam.github.io/zaf-fsgt/assets/zaf-logo@192.png": "1a786f689cf619935b63a7d159d625af4b089b6e",
@@ -111,15 +119,15 @@
     "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.44d537ab79f921fde5a2.woff2": "b2879f9e1d0985a96842bf7f55a2b2cc4c636d04",
     "https://nvuillam.github.io/zaf-fsgt/fa-solid-900.8e4a6dcc692b3887f9f5.eot": "340ee70e87850176047733192ea8109dd6380082",
     "https://nvuillam.github.io/zaf-fsgt/favicon.ico": "7288263ddd6bb0c5da421d78580c279122c4c522",
-    "https://nvuillam.github.io/zaf-fsgt/index.html": "878008578d429b62929b96922877ae9a4eee8adb",
-    "https://nvuillam.github.io/zaf-fsgt/main-es2015.e9dec10aea282f0afa9c.js": "4992ecf14166e17d69e1c6c3f67604fc97fbc0b4",
-    "https://nvuillam.github.io/zaf-fsgt/main-es5.342c635604a96594b252.js": "416a4ea6fe7513a7816279d0cca2ce720114974e",
+    "https://nvuillam.github.io/zaf-fsgt/index.html": "cd3baa1782bdaf89cf0817c6d3bc6233985ad913",
+    "https://nvuillam.github.io/zaf-fsgt/main-es2015.bf9776175563db2a5b5b.js": "692bb031a78de78abf36579a90141d1c4b03ebe7",
+    "https://nvuillam.github.io/zaf-fsgt/main-es5.31da56978065a427575a.js": "49ea6e1a780f6f45d77338bb7c7e0017cb0c5d37",
     "https://nvuillam.github.io/zaf-fsgt/manifest.json": "422a1ddbf3243f4de1f66c969e8dde50797687ca",
     "https://nvuillam.github.io/zaf-fsgt/polyfills-es2015.6f582e2dd084a9eb31fe.js": "ffe5f8cfa6eae51a7a95e8363b303b0c44ade852",
     "https://nvuillam.github.io/zaf-fsgt/polyfills-es5.7664869bb0b07fac599e.js": "3ea1e29746459f5b3ea1cf720189326d06127910",
     "https://nvuillam.github.io/zaf-fsgt/runtime-es2015.66c50dffbde7e36d296b.js": "c9c8de3e8bac53e70e51c45cba0809e31bf6d3e0",
     "https://nvuillam.github.io/zaf-fsgt/runtime-es5.c4dd5b6ad5686397be8f.js": "1bb40b967d3f20b6f9d199f402a6ecc5a65073c9",
-    "https://nvuillam.github.io/zaf-fsgt/styles.22d8767be20edb0ad778.css": "2c699c998808b3d72d7eab6d778b4f8941704884"
+    "https://nvuillam.github.io/zaf-fsgt/styles.6f95bd4aa961957aff89.css": "19c82c3b2329720a8dac424a8dc77001d6399cde"
   },
   "navigationUrls": [
     {
