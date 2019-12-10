@@ -14,7 +14,67 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
-  <link rel="stylesheet" href="styles.72afb09195433ef1fd66.css"></head>
+
+    <style type="text/css">
+      body,
+      html {
+        height: 100%;
+      }
+
+      .app-loading {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+      }
+
+      .app-loading .spinner {
+        height: 200px;
+        width: 200px;
+        animation: rotate 2s linear infinite;
+        transform-origin: center center;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+
+      .app-loading .spinner .path {
+        stroke-dasharray: 1, 200;
+        stroke-dashoffset: 0;
+        animation: dash 1.5s ease-in-out infinite;
+        stroke-linecap: round;
+        stroke: #ddd;
+      }
+
+      @keyframes rotate {
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      @keyframes dash {
+        0% {
+          stroke-dasharray: 1, 200;
+          stroke-dashoffset: 0;
+        }
+
+        50% {
+          stroke-dasharray: 89, 200;
+          stroke-dashoffset: -35px;
+        }
+
+        100% {
+          stroke-dasharray: 89, 200;
+          stroke-dashoffset: -124px;
+        }
+      }
+    </style>
+  <link rel="stylesheet" href="styles.10d093d7bb8175b5773a.css"></head>
 
   <body>
     <!-- Google Analytics -->
@@ -49,6 +109,14 @@
         This page requires JavaScript to work properly. Please enable JavaScript in your browser.
       </p>
     </noscript>
-    <app-root></app-root>
-  <script src="runtime-es2015.8cbb06b526746192243a.js" type="module"></script><script src="polyfills-es2015.6f582e2dd084a9eb31fe.js" type="module"></script><script src="runtime-es5.0382bf47014a833abe3a.js" nomodule></script><script src="polyfills-es5.7664869bb0b07fac599e.js" nomodule></script><script src="main-es2015.1f64b03787920d7dccac.js" type="module"></script><script src="main-es5.8acdbd87f0170b9061b7.js" nomodule></script></body>
+    <app-root>
+      <!-- loading layout replaced by app after startupp -->
+      <div class="app-loading">
+        <div class="logo"></div>
+        <svg class="spinner" viewBox="25 25 50 50">
+          <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+        </svg>
+      </div>
+    </app-root>
+  <script src="runtime-es2015.c363d1dcec8e594dbde2.js" type="module"></script><script src="polyfills-es2015.6f582e2dd084a9eb31fe.js" type="module"></script><script src="runtime-es5.0382bf47014a833abe3a.js" nomodule></script><script src="polyfills-es5.7664869bb0b07fac599e.js" nomodule></script><script src="main-es2015.f629cf690e865764fe53.js" type="module"></script><script src="main-es5.7b48249f68db0ffef2ca.js" nomodule></script></body>
 </html>
